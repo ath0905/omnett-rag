@@ -5,3 +5,4 @@ langchain-chroma
 pypdf
 tiktoken
 requests
+streamlit
