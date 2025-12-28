@@ -1,0 +1,6 @@
+chroma_db_local/
+omnetpp_guide.pdf
+__pycache__/
+*.pyc
+.env
+.DS_Store
